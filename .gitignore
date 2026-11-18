@@ -1,0 +1,21 @@
+# Byte-code and compilation output
+*.class
+build/
+target/
+src/main/webapp/WEB-INF/classes/
+compile-lib/
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+*.swp
+*.war
+
+# Operating system files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Preserve required third-party drivers in WEB-INF/lib
+!src/main/webapp/WEB-INF/lib/*.jar

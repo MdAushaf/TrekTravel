@@ -1,0 +1,4 @@
+Please copy your MySQL Connector/J 8.x driver JAR here.
+Example file: mysql-connector-j-8.x.jar (or mysql-connector-java-8.0.x.jar).
+
+This driver connects TrekTravel to your MySQL 8.0+ database instance.
